@@ -7,7 +7,7 @@
 
 module.exports = class UserTimeTracker {
     constructor() {
-        this.userId = "12345"; // Replace with the target user's ID
+        this.userId = "337442639626633216"; // Replace with the target user's ID
         this.interval = null;
         this.lastSeen = null; // Store the last seen date and time
         this.wasOnline = false; // Track if the user was previously online
